@@ -14,4 +14,4 @@ A simple Spotify Web Player UI clone built using **HTML + CSS**.
 - Font Awesome Icons  
 
 ## Live Demo
-(https://tanmayeedeore.github.io/Spotify-Clone/)
+(https://tanmayeedeore.github.io/Spotify-ui/)
